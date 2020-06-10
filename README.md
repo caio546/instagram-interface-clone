@@ -6,7 +6,7 @@
 
 ***MOBILE***
 <p align="center">
-  ![Preview](img/preview.gif)
+  <img width="270" src="img/preview.gif">
 </p>
 
 ## Table of Contents
